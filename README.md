@@ -1,1 +1,1 @@
-# World Tournament Simulator
+# Java Projects - Introduction Phase
