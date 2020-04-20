@@ -1,1 +1,1 @@
-# Java Projects - Introduction Phase
+# Java Projects
